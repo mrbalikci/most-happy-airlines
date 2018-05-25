@@ -1,12 +1,12 @@
 # MOST HAPPY AIRLINES
 
-* Based on top 30 airlies of 2018 around the world.
+* VADER - Sentiment Analysis for top 8 airlies of 2018 around the world.
 
 Airlines get a lot of flack on twitter, especially from big time Journalists who think they are the only ones affected by flying. Lets see what kind of tone everyone else takes when tweeting about them.
 
 ### Details
 
-* Retrieved 1000 tweets for each of the 7 popular airlines and run a VADER sentiment analysis on them.
+* Retrieved 1000 tweets for each of the 8 best airlines and run a VADER sentiment analysis on them.
 
 * Created an empty list to hold to results from each airline.
 
